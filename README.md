@@ -42,7 +42,12 @@ I have provided clean, well-commented, and fixed versions of all four exercises.
 
 ## How to Run
 
-1. Clone the repository
-2. Activate the environment (if using the one from admission):
-   ```bash
-   conda activate cvds-admission
+Make sure you have Python 3.10+ and NumPy installed.
+
+Run the files with:
+
+```bash
+python Q1.py
+python Q2.py
+python Q3.py
+python Q4.py
